@@ -197,7 +197,7 @@ INSERT INTO `countries` (`id`, `sortname`, `name`, `phonecode`) VALUES
 (178, 'QA', 'Qatar', 974),
 (179, 'RE', 'Reunion', 262),
 (180, 'RO', 'Romania', 40),
-(181, 'RU', 'Russia', 70),
+(181, 'RU', 'Russia', 7),
 (182, 'RW', 'Rwanda', 250),
 (183, 'SH', 'Saint Helena', 290),
 (184, 'KN', 'Saint Kitts And Nevis', 1869),
