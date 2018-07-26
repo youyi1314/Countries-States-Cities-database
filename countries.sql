@@ -69,7 +69,7 @@ INSERT INTO `countries` (`id`, `sortname`, `name`, `phonecode`) VALUES
 (50, 'CD', 'Democratic Republic Of The Congo', 242),
 (51, 'CK', 'Cook Islands', 682),
 (52, 'CR', 'Costa Rica', 506),
-(53, 'CI', 'Cote D''Ivoire (Ivory Coast)', 225),
+(53, 'CI', 'Cote D\'Ivoire (Ivory Coast)', 225),
 (54, 'HR', 'Croatia (Hrvatska)', 385),
 (55, 'CU', 'Cuba', 53),
 (56, 'CY', 'Cyprus', 357),
